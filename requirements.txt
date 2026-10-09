@@ -1,0 +1,9 @@
+# Kernel de chay notebook trong VS Code / Jupyter
+ipykernel>=6.29
+# Nut bam cho nguoi choi that (muc 5)
+ipywidgets>=8.1
+# Tinh toan, ve map, xuat GIF (Pillow di kem matplotlib)
+numpy>=1.26
+matplotlib>=3.8
+# Bang so sanh ket qua thuc nghiem (muc 10)
+pandas>=2.1
