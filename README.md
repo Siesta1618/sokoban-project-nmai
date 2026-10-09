@@ -21,6 +21,10 @@ Mở `sokoban_ai.ipynb`, chọn kernel `.venv` rồi chạy **Run All**.
 | §3 | Game engine: `Level`, `SokobanGame` |
 | §4 | Hiển thị: vẽ bàn chơi, phát lại, xuất GIF vào `outputs/` |
 | §5 | Người chơi thật (nút bấm ipywidgets) |
-| §6 – §10 | AI: giao thức đăng nhập, BFS/DFS/UCS/A*, demo, thực nghiệm *(đang làm)* |
+| §6 | Giao thức đăng nhập: `GameServer` và `Agent` |
+| §7 | Thuật toán tìm kiếm: BFS, DFS, UCS, A* (có cắt nhánh ô chết) |
+| §8 | AI agent: `SearchAgent`, `RandomAgent` |
+| §9 | Demo: AI đăng nhập và tự chơi |
+| §10 | Thực nghiệm, so sánh và nhận xét (chạy khoảng 2–4 phút) |
 
 > Trước khi nộp: **Restart & Run All** để lưu toàn bộ output (hình, GIF) vào file `.ipynb`.
